@@ -1,7 +1,6 @@
 #!/bin/bash
 SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
-# set me
 FILES=./*.tmTheme
 for f in $FILES
 do
