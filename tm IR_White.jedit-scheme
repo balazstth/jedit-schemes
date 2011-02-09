@@ -1,0 +1,21 @@
+# Converted from Textmate theme IR_White using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm IR_White
+view.fgColor=\#010101
+view.bgColor=\#ffffff
+view.caretColor=\#a7a7a7
+view.selectionColor=\#e0e0ed
+view.eolMarkerColor=\#f3f8fe
+view.lineHighlightColor=\#ffffff
+view.style.comment1=color\:\#898989 style\:
+view.style.literal1=color\:\#009f78 style\:
+view.style.label=color\:\#333366 style\:
+view.style.digit=color\:\#8c008a style\:
+view.style.keyword1=color\:\#016692 style\:
+view.style.keyword2=color\:\#7a7025 style\:
+view.style.keyword3=color\:\#333366 style\:
+view.style.keyword4=color\:\#696989 style\:
+view.style.operator=color\:\#016692 style\:
+view.style.function=color\:\#a15001 style\:
+view.style.literal3=color\:\#9d7416 style\:
+view.style.markup=color\:\#0067c2 style\:

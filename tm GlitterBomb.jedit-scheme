@@ -1,0 +1,21 @@
+# Converted from Textmate theme GlitterBomb using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm GlitterBomb
+view.fgColor=\#cfcfcf
+view.bgColor=\#0b0a0a
+view.caretColor=\#e2e9ff
+view.selectionColor=\#5e5d5d
+view.eolMarkerColor=\#484848
+view.lineHighlightColor=\#f8f8f8
+view.style.comment1=color\:\#44444e style\:i
+view.style.literal1=color\:\#4d6537 style\:
+view.style.label=color\:\#c0a368 style\:
+view.style.digit=color\:\#d3c788 style\:
+view.style.keyword1=color\:\#dbb800 style\:b
+view.style.keyword2=color\:\#935e29 style\:
+view.style.keyword3=color\:\#c0a368 style\:
+view.style.keyword4=color\:\#ae5251 style\:
+view.style.operator=color\:\#988155 style\:
+view.style.function=color\:\#e16521 style\:b
+view.style.literal3=color\:\#364627 style\:
+view.style.markup=color\:\#aad7ef style\:

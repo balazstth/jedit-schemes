@@ -1,0 +1,21 @@
+# Converted from Textmate theme Fade to Grey using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Fade to Grey
+view.fgColor=\#ffffff
+view.bgColor=\#000000
+view.caretColor=\#ffffff
+view.selectionColor=\#346299
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#1b1b00
+view.style.comment1=color\:\#696854 style\:
+view.style.literal1=color\:\#e3e658 style\:
+view.style.label=color\:\#96daff style\:
+view.style.digit=color\:\#96daff style\:
+view.style.keyword1=color\:\#d01d33 style\:
+view.style.keyword2=color\:\#cbc3b1 style\:
+view.style.keyword3=color\:\#96daff style\:
+view.style.keyword4=color\:\#898989 style\:b
+view.style.operator=color\:\#d01d33 style\:
+view.style.function=color\:\#aaaaaa style\:
+view.style.literal3=color\:\#d8e600 style\:
+view.style.markup=color\:\#3e3e3e style\:

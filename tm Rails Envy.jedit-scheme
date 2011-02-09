@@ -1,0 +1,21 @@
+# Converted from Textmate theme Rails Envy using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Rails Envy
+view.fgColor=\#f8f8f2
+view.bgColor=\#121210
+view.caretColor=\#f8f8f0
+view.selectionColor=\#49483e
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#3e3d32
+view.style.comment1=color\:\#75715e style\:
+view.style.literal1=color\:\#ffff66 style\:
+view.style.label=color\:\#70ffe0 style\:
+view.style.digit=color\:\#ae81ff style\:
+view.style.keyword1=color\:\#40a187 style\:
+view.style.keyword2=color\:\#66d9ef style\:
+view.style.keyword3=color\:\#ae81ff style\:
+view.style.keyword4=color\:\#00ffff style\:
+view.style.operator=color\:\#40a187 style\:
+view.style.function=color\:\#a6e22e style\:
+view.style.literal3=color\:\#ffff66 style\:
+view.style.markup=color\:\#52f9f9 style\:

@@ -1,0 +1,21 @@
+# Converted from Textmate theme CSSEdit using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm CSSEdit
+view.fgColor=\#474747
+view.bgColor=\#ffffff
+view.caretColor=\#000000
+view.selectionColor=\#a0cdff
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#ededed
+view.style.comment1=color\:\#a8a8a8 style\:
+view.style.literal1=color\:\#5d9629 style\:
+view.style.label=color\:\#474747 style\:
+view.style.digit=color\:\#6d4496 style\:
+view.style.keyword1=color\:\#4678bc style\:
+view.style.keyword2=color\:\#474747 style\:
+view.style.keyword3=color\:\#474747 style\:
+view.style.keyword4=color\:\#474747 style\:
+view.style.operator=color\:\#4678bc style\:
+view.style.function=color\:\#474747 style\:
+view.style.literal3=color\:\#5d9629 style\:
+view.style.markup=color\:\#4678bc style\:

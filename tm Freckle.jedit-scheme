@@ -1,0 +1,21 @@
+# Converted from Textmate theme Freckle using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Freckle
+view.fgColor=\#000000
+view.bgColor=\#ffffff
+view.caretColor=\#3592a8
+view.selectionColor=\#abd9e2
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#333435
+view.style.comment1=color\:\#797c74 style\:i
+view.style.literal1=color\:\#666961 bgColor\:\#d4f09a style\:
+view.style.label=color\:\#3592a8 bgColor\:\#a7d9e2 style\:
+view.style.digit=color\:\#3a3b38 style\:
+view.style.keyword1=color\:\#e84480 style\:
+view.style.keyword2=color\:\#e84480 style\:
+view.style.keyword3=color\:\#34b9d6 style\:
+view.style.keyword4=color\:\#3592a8 style\:
+view.style.operator=color\:\#e84480 style\:
+view.style.function=color\:\#3592a8 style\:b
+view.style.literal3=color\:\#666961 bgColor\:\#d4f09a style\:
+view.style.markup=color\:\#34b9d6 style\:

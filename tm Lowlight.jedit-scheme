@@ -1,0 +1,21 @@
+# Converted from Textmate theme Lowlight using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Lowlight
+view.fgColor=\#cacaca
+view.bgColor=\#1e1e1e
+view.caretColor=\#595959
+view.selectionColor=\#2a2b32
+view.eolMarkerColor=\#3a3a21
+view.lineHighlightColor=\#1c1c1c
+view.style.comment1=color\:\#3c5636 bgColor\:\#1d1f1c style\:i
+view.style.literal1=color\:\#a57c5c style\:
+view.style.label=color\:\#e66c29 style\:
+view.style.digit=color\:\#e66c29 style\:
+view.style.keyword1=color\:\#8f8d17 style\:
+view.style.keyword2=color\:\#edd34d style\:
+view.style.keyword3=color\:\#e66c29 style\:
+view.style.keyword4=color\:\#77acb0 style\:b
+view.style.operator=color\:\#7aff79 style\:b
+view.style.function=color\:\#2eb43b style\:
+view.style.literal3=color\:\#e3965e style\:
+view.style.markup=color\:\#495573 style\:

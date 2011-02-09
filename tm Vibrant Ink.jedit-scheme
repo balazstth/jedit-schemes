@@ -1,0 +1,21 @@
+# Converted from Textmate theme Vibrant Ink using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Vibrant Ink
+view.fgColor=\#ffffff
+view.bgColor=\#000000
+view.caretColor=\#ffffff
+view.selectionColor=\#2e4034
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#333300
+view.style.comment1=color\:\#9933cc style\:
+view.style.literal1=color\:\#66ff00 style\:
+view.style.label=color\:\#339999 style\:
+view.style.digit=color\:\#339999 style\:
+view.style.keyword1=color\:\#ff6600 style\:
+view.style.keyword2=color\:\#ffffff style\:
+view.style.keyword3=color\:\#339999 style\:
+view.style.keyword4=color\:\#ffffff style\:
+view.style.operator=color\:\#ff6600 style\:
+view.style.function=color\:\#ffcc00 style\:
+view.style.literal3=color\:\#44b4cc style\:
+view.style.markup=color\:\#ffffff style\:

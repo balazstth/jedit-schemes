@@ -1,0 +1,21 @@
+# Converted from Textmate theme Fluidvision using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Fluidvision
+view.fgColor=\#000000
+view.bgColor=\#f4f4f4
+view.caretColor=\#000000
+view.selectionColor=\#ffd793
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#e3e3e3
+view.style.comment1=color\:\#386f90 bgColor\:\#deeefd style\:
+view.style.literal1=color\:\#840e0b style\:
+view.style.label=color\:\#c5060b style\:i
+view.style.digit=color\:\#c34f0a style\:b
+view.style.keyword1=color\:\#5b91e1 style\:b
+view.style.keyword2=color\:\#3c4c72 style\:b
+view.style.keyword3=color\:\#585cf6 style\:i
+view.style.keyword4=color\:\#20498d style\:i
+view.style.operator=color\:\#5b91e1 style\:b
+view.style.function=color\:\#1b4b9d style\:b
+view.style.literal3=color\:\#840e0b style\:
+view.style.markup=color\:\#1c3981 style\:

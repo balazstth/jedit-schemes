@@ -1,0 +1,21 @@
+# Converted from Textmate theme Monokai using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Monokai
+view.fgColor=\#f8f8f2
+view.bgColor=\#272822
+view.caretColor=\#f8f8f0
+view.selectionColor=\#49483e
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#3e3d32
+view.style.comment1=color\:\#75715e style\:
+view.style.literal1=color\:\#e6db74 style\:
+view.style.label=color\:\#ae81ff style\:
+view.style.digit=color\:\#ae81ff style\:
+view.style.keyword1=color\:\#f92672 style\:
+view.style.keyword2=color\:\#66d9ef style\:
+view.style.keyword3=color\:\#ae81ff style\:
+view.style.keyword4=color\:\#f8f8f2 style\:
+view.style.operator=color\:\#f92672 style\:
+view.style.function=color\:\#a6e22e style\:
+view.style.literal3=color\:\#e6db74 style\:
+view.style.markup=color\:\#f92672 style\:

@@ -1,0 +1,21 @@
+# Converted from Textmate theme Tango using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Tango
+view.fgColor=\#303436
+view.bgColor=\#ffffff
+view.caretColor=\#000000
+view.selectionColor=\#c6deff
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#f2f2f2
+view.style.comment1=color\:\#555753 style\:i
+view.style.literal1=color\:\#a70000 style\:
+view.style.label=color\:\#194a87 style\:
+view.style.digit=color\:\#4f9b00 style\:
+view.style.keyword1=color\:\#303436 style\:b
+view.style.keyword2=color\:\#3c4c72 style\:
+view.style.keyword3=color\:\#194a87 style\:
+view.style.keyword4=color\:\#194a87 style\:
+view.style.operator=color\:\#303436 style\:b
+view.style.function=color\:\#5c3566 style\:
+view.style.literal3=color\:\#a70000 style\:
+view.style.markup=color\:\#4266a0 style\:

@@ -1,0 +1,21 @@
+# Converted from Textmate theme Django (Smoothy) using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Django (Smoothy)
+view.fgColor=\#f8f8f8
+view.bgColor=\#245032
+view.caretColor=\#336442
+view.selectionColor=\#336442
+view.eolMarkerColor=\#0b2f20
+view.lineHighlightColor=\#1a3923
+view.style.comment1=color\:\#fd6209 style\:
+view.style.literal1=color\:\#e1ffb8 style\:i
+view.style.label=color\:\#9cf340 style\:bi
+view.style.digit=color\:\#9cf340 style\:bi
+view.style.keyword1=color\:\#96dd3b style\:
+view.style.keyword2=color\:\#ffe862 style\:
+view.style.keyword3=color\:\#9cf340 style\:bi
+view.style.keyword4=color\:\#fb9a4b style\:bi
+view.style.operator=color\:\#96dd3b style\:
+view.style.function=color\:\#fec758 style\:
+view.style.literal3=color\:\#ffb454 style\:
+view.style.markup=color\:\#e8e8e7 style\:

@@ -1,0 +1,21 @@
+# Converted from Textmate theme All Hallow's Eve Custom using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm All Hallow's Eve Custom
+view.fgColor=\#ffffff
+view.bgColor=\#131313
+view.caretColor=\#ffffff
+view.selectionColor=\#675070
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#333300
+view.style.comment1=color\:\#9933cc style\:
+view.style.literal1=color\:\#66cc33 style\:
+view.style.label=color\:\#3387cc style\:
+view.style.digit=color\:\#3387cc style\:
+view.style.keyword1=color\:\#cc7833 style\:
+view.style.keyword2=color\:\#c83730 style\:
+view.style.keyword3=color\:\#3387cc style\:
+view.style.keyword4=color\:\#ffffff style\:
+view.style.operator=color\:\#cc7833 style\:
+view.style.function=color\:\#ffffff style\:
+view.style.literal3=color\:\#cccc33 style\:
+view.style.markup=color\:\#ffffff style\:

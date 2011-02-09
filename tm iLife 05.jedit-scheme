@@ -1,0 +1,21 @@
+# Converted from Textmate theme iLife 05 using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm iLife 05
+view.fgColor=\#333333
+view.bgColor=\#ffffff
+view.caretColor=\#a600f6
+view.selectionColor=\#e9bffd
+view.eolMarkerColor=\#f3d2b3
+view.lineHighlightColor=\#ffffee
+view.style.comment1=color\:\#b35eed bgColor\:\#f7f7f7 style\:i
+view.style.literal1=color\:\#69b200 bgColor\:\#fffff8 style\:
+view.style.label=color\:\#1c7a1f bgColor\:\#f5f9ef style\:
+view.style.digit=color\:\#69b200 style\:b
+view.style.keyword1=color\:\#000000 bgColor\:\#fffdfd style\:b
+view.style.keyword2=color\:\#d42755 bgColor\:\#fef9fa style\:
+view.style.keyword3=color\:\#1c7a1f style\:b
+view.style.keyword4=color\:\#308095 style\:b
+view.style.operator=color\:\#000000 bgColor\:\#fffdfd style\:b
+view.style.function=color\:\#ffffff bgColor\:\#69b200 style\:b
+view.style.literal3=color\:\#69b200 bgColor\:\#fffff8 style\:
+view.style.markup=color\:\#39a0ba bgColor\:\#ebf6f8 style\:

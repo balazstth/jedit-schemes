@@ -1,0 +1,21 @@
+# Converted from Textmate theme Putty using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Putty
+view.fgColor=\#e5e1dc
+view.bgColor=\#242322
+view.caretColor=\#ffffff
+view.selectionColor=\#535c72
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#333435
+view.style.comment1=color\:\#747676 style\:i
+view.style.literal1=color\:\#7ab8d7 style\:
+view.style.label=color\:\#7ab8d7 style\:
+view.style.digit=color\:\#fda35e style\:
+view.style.keyword1=color\:\#e9eec2 style\:
+view.style.keyword2=color\:\#d4584b style\:
+view.style.keyword3=color\:\#6e9cbe style\:
+view.style.keyword4=color\:\#7ab8d7 style\:
+view.style.operator=color\:\#e9eec2 style\:
+view.style.function=color\:\#d5584b style\:
+view.style.literal3=color\:\#7ab8d7 style\:
+view.style.markup=color\:\#e87658 style\:

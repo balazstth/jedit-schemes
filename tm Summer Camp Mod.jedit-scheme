@@ -1,0 +1,21 @@
+# Converted from Textmate theme Summer Camp Mod using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Summer Camp Mod
+view.fgColor=\#f2f8cb
+view.bgColor=\#110f0a
+view.caretColor=\#f2f8cb
+view.selectionColor=\#2a2619
+view.eolMarkerColor=\#f3771d
+view.lineHighlightColor=\#14120b
+view.style.comment1=color\:\#2b2719 bgColor\:\#070604 style\:i
+view.style.literal1=color\:\#f39b19 style\:
+view.style.label=color\:\#3a94dc style\:
+view.style.digit=color\:\#3fa2ed style\:
+view.style.keyword1=color\:\#a3ed4e style\:
+view.style.keyword2=color\:\#f2f8cb style\:
+view.style.keyword3=color\:\#3588ca style\:
+view.style.keyword4=color\:\#f35e18 style\:
+view.style.operator=color\:\#a3ed4e style\:
+view.style.function=color\:\#7dde12 style\:
+view.style.literal3=color\:\#f39b19 style\:
+view.style.markup=color\:\#f2f8cb style\:

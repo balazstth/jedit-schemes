@@ -1,0 +1,21 @@
+# Converted from Textmate theme Black Pearl II using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Black Pearl II
+view.fgColor=\#ffffff
+view.bgColor=\#000000
+view.caretColor=\#ffffff
+view.selectionColor=\#242424
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#0d0d0d
+view.style.comment1=color\:\#428bdd style\:i
+view.style.literal1=color\:\#cc66ff style\:
+view.style.label=color\:\#66ccff style\:
+view.style.digit=color\:\#eddd5a style\:
+view.style.keyword1=color\:\#ff9d00 style\:
+view.style.keyword2=color\:\#8aa6c1 style\:
+view.style.keyword3=color\:\#80d500 style\:b
+view.style.keyword4=color\:\#d0ff7e style\:
+view.style.operator=color\:\#ffffff style\:b
+view.style.function=color\:\#ffffff style\:b
+view.style.literal3=color\:\#ca4344 style\:
+view.style.markup=color\:\#ffffff style\:b

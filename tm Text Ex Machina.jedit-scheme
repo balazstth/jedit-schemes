@@ -1,0 +1,21 @@
+# Converted from Textmate theme Text Ex Machina using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Text Ex Machina
+view.fgColor=\#e6e6e6
+view.bgColor=\#151515
+view.caretColor=\#f8f8f0
+view.selectionColor=\#666666
+view.eolMarkerColor=\#3b3a32
+view.lineHighlightColor=\#3e3d32
+view.style.comment1=color\:\#333333 style\:
+view.style.literal1=color\:\#66ccff style\:
+view.style.label=color\:\#ae81ff style\:
+view.style.digit=color\:\#ae81ff style\:
+view.style.keyword1=color\:\#777cb2 style\:
+view.style.keyword2=color\:\#4b8a0b style\:
+view.style.keyword3=color\:\#ae81ff style\:
+view.style.keyword4=color\:\#ffffff style\:
+view.style.operator=color\:\#777cb2 style\:
+view.style.function=color\:\#ccff66 style\:
+view.style.literal3=color\:\#66ccff style\:
+view.style.markup=color\:\#323464 style\:

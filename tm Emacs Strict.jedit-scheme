@@ -1,0 +1,21 @@
+# Converted from Textmate theme Emacs Strict using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Emacs Strict
+view.fgColor=\#d3d3d3
+view.bgColor=\#000000
+view.caretColor=\#ffffff
+view.selectionColor=\#001bb3
+view.eolMarkerColor=\#ff0000
+view.lineHighlightColor=\#140128
+view.style.comment1=color\:\#ff7d27 style\:
+view.style.literal1=color\:\#ff9e7b style\:
+view.style.label=color\:\#d3d3d3 style\:
+view.style.digit=color\:\#d3d3d3 style\:
+view.style.keyword1=color\:\#00ffff style\:
+view.style.keyword2=color\:\#d3d3d3 style\:
+view.style.keyword3=color\:\#d3d3d3 style\:
+view.style.keyword4=color\:\#d3d3d3 style\:
+view.style.operator=color\:\#00ffff style\:
+view.style.function=color\:\#81cef9 style\:
+view.style.literal3=color\:\#ff9e7b style\:
+view.style.markup=color\:\#9ccff4 style\:

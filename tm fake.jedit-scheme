@@ -1,0 +1,21 @@
+# Converted from Textmate theme fake using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm fake
+view.fgColor=\#ffedc5
+view.bgColor=\#010304
+view.caretColor=\#a7a7a7
+view.selectionColor=\#2d3236
+view.eolMarkerColor=\#2f363d
+view.lineHighlightColor=\#0e1011
+view.style.comment1=color\:\#8e8d93 style\:bi
+view.style.literal1=color\:\#ff9924 style\:
+view.style.label=color\:\#ff4a1a style\:
+view.style.digit=color\:\#ff4a1a style\:
+view.style.keyword1=color\:\#ff4a1a style\:b
+view.style.keyword2=color\:\#dad085 style\:
+view.style.keyword3=color\:\#ff4a1a style\:
+view.style.keyword4=color\:\#ff4a1a style\:
+view.style.operator=color\:\#ff4a1a style\:b
+view.style.function=color\:\#c6ff3e style\:
+view.style.literal3=color\:\#e9c062 style\:
+view.style.markup=color\:\#89bdff style\:

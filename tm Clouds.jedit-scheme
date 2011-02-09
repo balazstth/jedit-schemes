@@ -1,0 +1,21 @@
+# Converted from Textmate theme Clouds using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Clouds
+view.fgColor=\#000000
+view.bgColor=\#ffffff
+view.caretColor=\#000000
+view.selectionColor=\#bdd5fc
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#fffbd1
+view.style.comment1=color\:\#bcc8ba style\:
+view.style.literal1=color\:\#5d90cd style\:
+view.style.label=color\:\#000000 style\:
+view.style.digit=color\:\#46a609 style\:
+view.style.keyword1=color\:\#af956f style\:
+view.style.keyword2=color\:\#c52727 style\:
+view.style.keyword3=color\:\#39946a style\:
+view.style.keyword4=color\:\#000000 style\:
+view.style.operator=color\:\#484848 style\:
+view.style.function=color\:\#000000 style\:
+view.style.literal3=color\:\#5d90cd style\:
+view.style.markup=color\:\#606060 style\:

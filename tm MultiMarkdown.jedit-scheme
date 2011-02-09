@@ -1,0 +1,21 @@
+# Converted from Textmate theme MultiMarkdown using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm MultiMarkdown
+view.fgColor=\#000000
+view.bgColor=\#ffffff
+view.caretColor=\#000000
+view.selectionColor=\#b5d8f7
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#ededed
+view.style.comment1=color\:\#000000 style\:
+view.style.literal1=color\:\#000000 style\:
+view.style.label=color\:\#000000 style\:
+view.style.digit=color\:\#000000 style\:
+view.style.keyword1=color\:\#000000 style\:
+view.style.keyword2=color\:\#000000 style\:
+view.style.keyword3=color\:\#000000 style\:
+view.style.keyword4=color\:\#000000 style\:
+view.style.operator=color\:\#000000 style\:
+view.style.function=color\:\#000000 style\:
+view.style.literal3=color\:\#000000 style\:
+view.style.markup=color\:\#000000 style\:

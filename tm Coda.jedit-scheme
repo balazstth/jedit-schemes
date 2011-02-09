@@ -1,0 +1,21 @@
+# Converted from Textmate theme Coda using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Coda
+view.fgColor=\#000000
+view.bgColor=\#ffffff
+view.caretColor=\#000000
+view.selectionColor=\#a7caff
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#eef1f5
+view.style.comment1=color\:\#3c802c style\:i
+view.style.literal1=color\:\#ed7722 style\:
+view.style.label=color\:\#916319 style\:
+view.style.digit=color\:\#0f20f6 style\:
+view.style.keyword1=color\:\#aa2063 style\:
+view.style.keyword2=color\:\#7520af style\:
+view.style.keyword3=color\:\#000000 style\:
+view.style.keyword4=color\:\#000000 style\:
+view.style.operator=color\:\#000000 style\:
+view.style.function=color\:\#053369 style\:
+view.style.literal3=color\:\#ed7722 style\:
+view.style.markup=color\:\#881181 style\:

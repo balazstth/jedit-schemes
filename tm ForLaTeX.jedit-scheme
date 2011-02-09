@@ -1,0 +1,21 @@
+# Converted from Textmate theme ForLaTeX using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm ForLaTeX
+view.fgColor=\#66ccff
+view.bgColor=\#000000
+view.caretColor=\#ff8000
+view.selectionColor=\#bad6fd
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#7f7f7f
+view.style.comment1=color\:\#66ff66 style\:i
+view.style.literal1=color\:\#ff66ff style\:
+view.style.label=color\:\#ffff00 style\:
+view.style.digit=color\:\#66ccff style\:
+view.style.keyword1=color\:\#999999 style\:
+view.style.keyword2=color\:\#ffcc66 style\:
+view.style.keyword3=color\:\#66ccff style\:
+view.style.keyword4=color\:\#66ccff style\:
+view.style.operator=color\:\#999999 style\:
+view.style.function=color\:\#66ccff style\:
+view.style.literal3=color\:\#ff66ff style\:
+view.style.markup=color\:\#66ccff style\:

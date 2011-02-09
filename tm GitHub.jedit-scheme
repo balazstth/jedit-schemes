@@ -1,0 +1,21 @@
+# Converted from Textmate theme GitHub using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm GitHub
+view.fgColor=\#000000
+view.bgColor=\#f8f8ff
+view.caretColor=\#000000
+view.selectionColor=\#bcd5fa
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#e7e7ed
+view.style.comment1=color\:\#999988 style\:i
+view.style.literal1=color\:\#dd1144 style\:
+view.style.label=color\:\#aa2c8c style\:
+view.style.digit=color\:\#009999 style\:
+view.style.keyword1=color\:\#000000 style\:b
+view.style.keyword2=color\:\#000000 style\:
+view.style.keyword3=color\:\#000000 style\:b
+view.style.keyword4=color\:\#108888 style\:
+view.style.operator=color\:\#000000 style\:b
+view.style.function=color\:\#990000 style\:b
+view.style.literal3=color\:\#009926 style\:
+view.style.markup=color\:\#121289 style\:

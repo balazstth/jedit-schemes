@@ -1,0 +1,21 @@
+# Converted from Textmate theme Pastie using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Pastie
+view.fgColor=\#000000
+view.bgColor=\#ffffff
+view.caretColor=\#000000
+view.selectionColor=\#80c7ff
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#c1e2f8
+view.style.comment1=color\:\#888888 style\:i
+view.style.literal1=color\:\#d71707 bgColor\:\#fff0f0 style\:
+view.style.label=color\:\#dc6036 style\:b
+view.style.digit=color\:\#0000dc style\:b
+view.style.keyword1=color\:\#138b05 style\:b
+view.style.keyword2=color\:\#d71707 style\:b
+view.style.keyword3=color\:\#0b51a6 style\:b
+view.style.keyword4=color\:\#0e65bb style\:b
+view.style.operator=color\:\#138b05 style\:b
+view.style.function=color\:\#1076c3 style\:
+view.style.literal3=color\:\#d71707 bgColor\:\#fff0f0 style\:
+view.style.markup=color\:\#000000 style\:

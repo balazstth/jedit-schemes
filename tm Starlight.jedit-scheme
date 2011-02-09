@@ -1,0 +1,21 @@
+# Converted from Textmate theme Starlight using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Starlight
+view.fgColor=\#c0b6a8
+view.bgColor=\#223859
+view.caretColor=\#d0c179
+view.selectionColor=\#50729c
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#1e314e
+view.style.comment1=color\:\#aeaeae style\:
+view.style.literal1=color\:\#b9a185 style\:
+view.style.label=color\:\#c0b6a8 style\:
+view.style.digit=color\:\#b9a185 style\:
+view.style.keyword1=color\:\#a38474 style\:
+view.style.keyword2=color\:\#c0b6a8 style\:
+view.style.keyword3=color\:\#c0b6a8 style\:
+view.style.keyword4=color\:\#a19a83 style\:
+view.style.operator=color\:\#a38474 style\:
+view.style.function=color\:\#c0b6a8 style\:
+view.style.literal3=color\:\#b9a185 style\:
+view.style.markup=color\:\#c0b6a8 style\:

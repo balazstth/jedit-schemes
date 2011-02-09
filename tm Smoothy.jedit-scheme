@@ -1,0 +1,21 @@
+# Converted from Textmate theme Smoothy using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Smoothy
+view.fgColor=\#000000
+view.bgColor=\#ffffff
+view.caretColor=\#000000
+view.selectionColor=\#fffead
+view.eolMarkerColor=\#c1c1a8
+view.lineHighlightColor=\#f7f7f7
+view.style.comment1=color\:\#cfcfcf bgColor\:\#ffffff style\:
+view.style.literal1=color\:\#704d3d style\:
+view.style.label=color\:\#e66c29 style\:
+view.style.digit=color\:\#e66c29 style\:
+view.style.keyword1=color\:\#d8b229 style\:
+view.style.keyword2=color\:\#55a2ea style\:b
+view.style.keyword3=color\:\#e66c29 style\:
+view.style.keyword4=color\:\#77acb0 style\:b
+view.style.operator=color\:\#4ea44e style\:b
+view.style.function=color\:\#2eb43b style\:
+view.style.literal3=color\:\#e3965e style\:
+view.style.markup=color\:\#495573 style\:

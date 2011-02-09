@@ -1,0 +1,21 @@
+# Converted from Textmate theme Clouds Midnight using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Clouds Midnight
+view.fgColor=\#929292
+view.bgColor=\#191919
+view.caretColor=\#7da5dc
+view.selectionColor=\#000000
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#1f1f1f
+view.style.comment1=color\:\#3c403b style\:
+view.style.literal1=color\:\#5d90cd style\:
+view.style.label=color\:\#929292 style\:
+view.style.digit=color\:\#46a609 style\:
+view.style.keyword1=color\:\#927c5d style\:
+view.style.keyword2=color\:\#e92e2e style\:
+view.style.keyword3=color\:\#39946a style\:
+view.style.keyword4=color\:\#929292 style\:
+view.style.operator=color\:\#4b4b4b style\:
+view.style.function=color\:\#929292 style\:
+view.style.literal3=color\:\#5d90cd style\:
+view.style.markup=color\:\#606060 style\:

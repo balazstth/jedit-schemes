@@ -1,0 +1,21 @@
+# Converted from Textmate theme BBEdit using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm BBEdit
+view.fgColor=\#000000
+view.bgColor=\#ffffff
+view.caretColor=\#000000
+view.selectionColor=\#ffd420
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#ededed
+view.style.comment1=color\:\#804000 style\:
+view.style.literal1=color\:\#ff0080 style\:
+view.style.label=color\:\#c5060b style\:
+view.style.digit=color\:\#ff0080 style\:
+view.style.keyword1=color\:\#0000ff style\:
+view.style.keyword2=color\:\#0000ff style\:
+view.style.keyword3=color\:\#004080 style\:
+view.style.keyword4=color\:\#006600 style\:
+view.style.operator=color\:\#0000ff style\:
+view.style.function=color\:\#0000a2 style\:
+view.style.literal3=color\:\#ff0080 style\:
+view.style.markup=color\:\#1c02ff style\:

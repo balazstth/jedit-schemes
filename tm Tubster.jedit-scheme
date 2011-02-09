@@ -1,0 +1,21 @@
+# Converted from Textmate theme Tubster using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Tubster
+view.fgColor=\#e6e1dc
+view.bgColor=\#232323
+view.caretColor=\#ffffff
+view.selectionColor=\#535c72
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#333435
+view.style.comment1=color\:\#666666 style\:i
+view.style.literal1=color\:\#99cc33 style\:
+view.style.label=color\:\#34a2d9 style\:
+view.style.digit=color\:\#99cc66 style\:
+view.style.keyword1=color\:\#cc6633 style\:
+view.style.keyword2=color\:\#da4939 style\:
+view.style.keyword3=color\:\#3399cc style\:
+view.style.keyword4=color\:\#3399cc style\:
+view.style.operator=color\:\#cc6633 style\:
+view.style.function=color\:\#ffcc33 style\:
+view.style.literal3=color\:\#99cc33 style\:
+view.style.markup=color\:\#ffcc33 style\:

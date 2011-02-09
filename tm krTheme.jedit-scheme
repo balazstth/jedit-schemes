@@ -1,0 +1,21 @@
+# Converted from Textmate theme krTheme using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm krTheme
+view.fgColor=\#fcffe0
+view.bgColor=\#0b0a09
+view.caretColor=\#ff9900
+view.selectionColor=\#530678
+view.eolMarkerColor=\#593f2a
+view.lineHighlightColor=\#38403d
+view.style.comment1=color\:\#706d5b style\:i
+view.style.literal1=color\:\#8f7673 style\:
+view.style.label=color\:\#a25b14 style\:
+view.style.digit=color\:\#a25b14 style\:
+view.style.keyword1=color\:\#949c8b style\:
+view.style.keyword2=color\:\#85873a style\:
+view.style.keyword3=color\:\#a25b14 style\:
+view.style.keyword4=color\:\#d1a796 style\:
+view.style.operator=color\:\#949c8b style\:
+view.style.function=color\:\#796903 style\:
+view.style.literal3=color\:\#55a980 style\:
+view.style.markup=color\:\#babd9c style\:

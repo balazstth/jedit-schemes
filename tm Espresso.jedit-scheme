@@ -1,0 +1,21 @@
+# Converted from Textmate theme Espresso using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Espresso
+view.fgColor=\#000000
+view.bgColor=\#ffffff
+view.caretColor=\#000000
+view.selectionColor=\#80c7ff
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#c1e2f8
+view.style.comment1=color\:\#aaaaaa style\:i
+view.style.literal1=color\:\#cf4f5f bgColor\:\#fff0f0 style\:
+view.style.label=color\:\#cf4f5f style\:b
+view.style.digit=color\:\#cf4f5f style\:b
+view.style.keyword1=color\:\#2f6f9f bgColor\:\#f5faff style\:b
+view.style.keyword2=color\:\#d71707 style\:b
+view.style.keyword3=color\:\#0b51a6 style\:b
+view.style.keyword4=color\:\#000000 style\:b
+view.style.operator=color\:\#2f6f9f bgColor\:\#f5faff style\:b
+view.style.function=color\:\#4f9fd0 style\:
+view.style.literal3=color\:\#cf4f5f bgColor\:\#fff0f0 style\:
+view.style.markup=color\:\#000000 style\:

@@ -1,0 +1,21 @@
+# Converted from Textmate theme Spectacular using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Spectacular
+view.fgColor=\#f3f3f3
+view.bgColor=\#0b0a0a
+view.caretColor=\#8ba7a7
+view.selectionColor=\#5e5d5d
+view.eolMarkerColor=\#484848
+view.lineHighlightColor=\#f8f8f8
+view.style.comment1=color\:\#60606d style\:i
+view.style.literal1=color\:\#a9e448 style\:
+view.style.label=color\:\#ff3a55 style\:
+view.style.digit=color\:\#ff3a55 style\:
+view.style.keyword1=color\:\#ffaa00 style\:b
+view.style.keyword2=color\:\#ffb454 style\:
+view.style.keyword3=color\:\#ff3a55 style\:
+view.style.keyword4=color\:\#fb9a4b style\:
+view.style.operator=color\:\#ffaa00 style\:b
+view.style.function=color\:\#fffb00 style\:b
+view.style.literal3=color\:\#ffb454 style\:
+view.style.markup=color\:\#9effff style\:

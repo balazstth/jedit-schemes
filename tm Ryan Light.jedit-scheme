@@ -1,0 +1,21 @@
+# Converted from Textmate theme Ryan Light using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Ryan Light
+view.fgColor=\#000000
+view.bgColor=\#ffffff
+view.caretColor=\#000000
+view.selectionColor=\#c3dcff
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#efefef
+view.style.comment1=color\:\#808080 style\:i
+view.style.literal1=color\:\#0e8d90 style\:
+view.style.label=color\:\#a62b29 style\:
+view.style.digit=color\:\#0900d3 style\:
+view.style.keyword1=color\:\#006a08 style\:
+view.style.keyword2=color\:\#010e83 style\:
+view.style.keyword3=color\:\#0000cd style\:
+view.style.keyword4=color\:\#7e3700 style\:
+view.style.operator=color\:\#006a08 style\:
+view.style.function=color\:\#820095 style\:
+view.style.literal3=color\:\#0e8d90 style\:
+view.style.markup=color\:\#2d439b style\:

@@ -1,0 +1,21 @@
+# Converted from Textmate theme Blackboard Black using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Blackboard Black
+view.fgColor=\#f8f8f8
+view.bgColor=\#1f1f1f
+view.caretColor=\#b1b1b1
+view.selectionColor=\#253b76
+view.eolMarkerColor=\#575757
+view.lineHighlightColor=\#2a2a2a
+view.style.comment1=color\:\#aeaeae style\:
+view.style.literal1=color\:\#61ce3c style\:
+view.style.label=color\:\#d8fa3c style\:
+view.style.digit=color\:\#d8fa3c style\:
+view.style.keyword1=color\:\#fbde2d style\:
+view.style.keyword2=color\:\#8da6ce style\:
+view.style.keyword3=color\:\#d8fa3c style\:
+view.style.keyword4=color\:\#f8f8f8 style\:
+view.style.operator=color\:\#fbde2d style\:
+view.style.function=color\:\#ff6400 style\:
+view.style.literal3=color\:\#61ce3c style\:
+view.style.markup=color\:\#7f90aa style\:

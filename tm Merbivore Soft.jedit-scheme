@@ -1,0 +1,21 @@
+# Converted from Textmate theme Merbivore Soft using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Merbivore Soft
+view.fgColor=\#e6e1dc
+view.bgColor=\#1c1c1c
+view.caretColor=\#ffffff
+view.selectionColor=\#35213e
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#333435
+view.style.comment1=color\:\#ac4bb8 style\:i
+view.style.literal1=color\:\#8ec65f style\:
+view.style.label=color\:\#68c1d8 style\:
+view.style.digit=color\:\#7fc578 style\:
+view.style.keyword1=color\:\#fc803a style\:
+view.style.keyword2=color\:\#e6e1dc style\:
+view.style.keyword3=color\:\#e1c582 style\:
+view.style.keyword4=color\:\#e6e1dc style\:
+view.style.operator=color\:\#fc803a style\:
+view.style.function=color\:\#e6e1dc style\:
+view.style.literal3=color\:\#8ec65f style\:
+view.style.markup=color\:\#fc803a style\:

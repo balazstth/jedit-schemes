@@ -1,0 +1,21 @@
+# Converted from Textmate theme Swyphs II using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Swyphs II
+view.fgColor=\#c1c1c1
+view.bgColor=\#000000
+view.caretColor=\#ffffff
+view.selectionColor=\#bc1800
+view.eolMarkerColor=\#323232
+view.lineHighlightColor=\#080808
+view.style.comment1=color\:\#575757 style\:i
+view.style.literal1=color\:\#d7d7d7 style\:
+view.style.label=color\:\#c1c1c1 style\:
+view.style.digit=color\:\#d7d7d7 style\:
+view.style.keyword1=color\:\#92577e style\:
+view.style.keyword2=color\:\#7d6068 style\:
+view.style.keyword3=color\:\#557474 style\:
+view.style.keyword4=color\:\#c1c1c1 style\:
+view.style.operator=color\:\#608c6d style\:
+view.style.function=color\:\#c1c1c1 style\:
+view.style.literal3=color\:\#c1c1c1 style\:
+view.style.markup=color\:\#c1c1c1 style\:

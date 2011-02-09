@@ -1,0 +1,21 @@
+# Converted from Textmate theme Friendship Bracelet using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Friendship Bracelet
+view.fgColor=\#f1f1f1
+view.bgColor=\#1f1f1f
+view.caretColor=\#ffffff
+view.selectionColor=\#685172
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#404040
+view.style.comment1=color\:\#8a8988 style\:
+view.style.literal1=color\:\#f3f99a style\:
+view.style.label=color\:\#389ad9 style\:
+view.style.digit=color\:\#389ad9 style\:
+view.style.keyword1=color\:\#ff8c56 style\:
+view.style.keyword2=color\:\#ff6666 style\:
+view.style.keyword3=color\:\#389ad9 style\:
+view.style.keyword4=color\:\#d4312c style\:
+view.style.operator=color\:\#ff8c56 style\:
+view.style.function=color\:\#389ad9 style\:
+view.style.literal3=color\:\#ecf5a7 style\:
+view.style.markup=color\:\#389ad9 style\:

@@ -1,0 +1,21 @@
+# Converted from Textmate theme monoindustrial using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm monoindustrial
+view.fgColor=\#ffffff
+view.bgColor=\#222c28
+view.caretColor=\#ffffff
+view.selectionColor=\#4e5853
+view.eolMarkerColor=\#444c48
+view.lineHighlightColor=\#1d2421
+view.style.comment1=color\:\#666c68 bgColor\:\#151c19 style\:
+view.style.literal1=color\:\#c23800 bgColor\:\#1a0700 style\:
+view.style.label=color\:\#e98800 style\:
+view.style.digit=color\:\#e98800 style\:
+view.style.keyword1=color\:\#a39e64 style\:
+view.style.keyword2=color\:\#588e60 style\:
+view.style.keyword3=color\:\#e98800 style\:
+view.style.keyword4=color\:\#648bd2 style\:
+view.style.operator=color\:\#a8b3ab style\:
+view.style.function=color\:\#a8b3ab style\:
+view.style.literal3=color\:\#c23800 bgColor\:\#1a0700 style\:
+view.style.markup=color\:\#a65eff style\:

@@ -1,0 +1,21 @@
+# Converted from Textmate theme RDark using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm RDark
+view.fgColor=\#b9bdb6
+view.bgColor=\#1b2426
+view.caretColor=\#ffffff
+view.selectionColor=\#6a727d
+view.eolMarkerColor=\#bfbfbf
+view.lineHighlightColor=\#0f1516
+view.style.comment1=color\:\#646763 style\:
+view.style.literal1=color\:\#5ce638 style\:
+view.style.label=color\:\#ffffff style\:
+view.style.digit=color\:\#5ce638 style\:
+view.style.keyword1=color\:\#5ba1cf style\:
+view.style.keyword2=color\:\#b9bdb6 style\:
+view.style.keyword3=color\:\#5ce638 style\:
+view.style.keyword4=color\:\#ffffff style\:
+view.style.operator=color\:\#5ba1cf style\:
+view.style.function=color\:\#ffaa3e style\:
+view.style.literal3=color\:\#5ce638 style\:
+view.style.markup=color\:\#ffffff style\:

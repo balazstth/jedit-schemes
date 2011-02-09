@@ -1,0 +1,21 @@
+# Converted from Textmate theme idleFingers using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm idleFingers
+view.fgColor=\#ffffff
+view.bgColor=\#323232
+view.caretColor=\#91ff00
+view.selectionColor=\#555e74
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#353637
+view.style.comment1=color\:\#bc9458 style\:i
+view.style.literal1=color\:\#a5c261 style\:
+view.style.label=color\:\#6c99bb style\:
+view.style.digit=color\:\#6c99bb style\:
+view.style.keyword1=color\:\#cc7833 style\:
+view.style.keyword2=color\:\#b83426 style\:
+view.style.keyword3=color\:\#6c99bb style\:
+view.style.keyword4=color\:\#b7dff8 style\:
+view.style.operator=color\:\#cc7833 style\:
+view.style.function=color\:\#ffc66d style\:
+view.style.literal3=color\:\#cccc33 style\:
+view.style.markup=color\:\#ffe5bb style\:

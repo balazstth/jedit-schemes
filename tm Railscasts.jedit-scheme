@@ -1,0 +1,21 @@
+# Converted from Textmate theme Railscasts using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm Railscasts
+view.fgColor=\#e6e1dc
+view.bgColor=\#2b2b2b
+view.caretColor=\#ffffff
+view.selectionColor=\#545d73
+view.eolMarkerColor=\#404040
+view.lineHighlightColor=\#333435
+view.style.comment1=color\:\#bc9458 style\:i
+view.style.literal1=color\:\#a5c261 style\:
+view.style.label=color\:\#6d9cbe style\:
+view.style.digit=color\:\#a5c261 style\:
+view.style.keyword1=color\:\#cc7833 style\:
+view.style.keyword2=color\:\#da4939 style\:
+view.style.keyword3=color\:\#6e9cbe style\:
+view.style.keyword4=color\:\#d0d0ff style\:
+view.style.operator=color\:\#cc7833 style\:
+view.style.function=color\:\#ffc66d style\:
+view.style.literal3=color\:\#a5c261 style\:
+view.style.markup=color\:\#e8bf6a style\:

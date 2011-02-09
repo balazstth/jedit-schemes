@@ -1,0 +1,21 @@
+# Converted from Textmate theme [ Argonaut ] using Coloration v0.2.5 (http://github.com/sickill/coloration)
+
+scheme.name=tm [ Argonaut ]
+view.fgColor=\#b2b2b2
+view.bgColor=\#151515
+view.caretColor=\#ff2200
+view.selectionColor=\#002f53
+view.eolMarkerColor=\#000000
+view.lineHighlightColor=\#000c16
+view.style.comment1=color\:\#00a6ff style\:i
+view.style.literal1=color\:\#6497c5 style\:
+view.style.label=color\:\#a4ed2d style\:b
+view.style.digit=color\:\#d70000 style\:
+view.style.keyword1=color\:\#ffffff style\:b
+view.style.keyword2=color\:\#815db3 style\:
+view.style.keyword3=color\:\#a4ed2d style\:b
+view.style.keyword4=color\:\#0068c5 style\:
+view.style.operator=color\:\#ffffff style\:b
+view.style.function=color\:\#ffca00 style\:b
+view.style.literal3=color\:\#6497c5 style\:
+view.style.markup=color\:\#0065d3 style\:
